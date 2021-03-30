@@ -1,5 +1,5 @@
 # D3-challenge
-Assignment # 16: D3
+Assignment # 15: D3
 
 This is my over-all 15th, and first D3 assignment. In this assignment, my task was to analyze the current trends shaping people's lives, as well as to create charts, graphs, and interactive elements to help readers understand my findings such as health risks facing particular demographics. My information sources for this assignment, are the U.S. Census Bureau and the Behavioural Risk Factor Surveillance System.
 The data set included with the assignment is based on 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml. The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
