@@ -6,9 +6,9 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 In this assignment, I have utilized both: html and JavaScript.
 As mandatory part of this the assignment, I was required to create a scatter plot between two of the data variables such as “Healthcare vs. Poverty” or “Smokers vs. Age”.
 Using the D3 techniques, I created a scatter plot that represents each state with circle elements. I performed coding for this graphic in the “app.js” file; and pulled in the data from “data.csv” by using the “d3.csv” function. Apart from this, I performed the following tasks:
-	Included state abbreviations in the circles.
-	Created and situated the axes and labels to the left and bottom of the chart.
-	Used ”python -m http.server” to run the visualization in order to host the page at localhost:8000 in my web browser.
+-	Included state abbreviations in the circles.
+-	Created and situated the axes and labels to the left and bottom of the chart.
+-	Used ”python -m http.server” to run the visualization in order to host the page at localhost:8000 in my web browser.
 
 As bonus part of this assignment, I performed the following tasks:
 -	Included more demographics and more risk factors.
